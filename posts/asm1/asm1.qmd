@@ -1,0 +1,10 @@
+---
+title: "Asm 1"
+author: "Chayanont pi"
+date: today
+categories: [news, code,analysis]
+image: "image.jpg"
+---
+# Australians say AI shouldn’t produce political news, but it’s OK for sport: new research
+
+I dont want to make it only rofl
